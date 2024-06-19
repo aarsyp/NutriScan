@@ -1,0 +1,9 @@
+azure-cognitiveservices-vision-computervision
+langchain-core
+langsmith
+msrest
+openai
+Pillow
+python-dotenv
+pandas
+streamlit
